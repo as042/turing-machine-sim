@@ -1,4 +1,4 @@
-# turing_machine
+# turing-machine-sim
 
 A Rust Turing machine simulator with no dependencies. It provides a transition function, an
 infinite tape, configurable forced-halt settings, and a `Recording` type that replays a run
